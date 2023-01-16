@@ -1,0 +1,24 @@
+{
+  "scores": [
+    {
+      "score": "0",
+      "classifier": "Don't know",
+      "feedback": "He was not able to describe"
+    },
+    {
+      "score": "1",
+      "classifier": "Poor explanation",
+      "feedback": "He partially described"
+    },
+    {
+      "score": "2",
+      "classifier": "Good explanation",
+      "feedback": "He was able to describe"
+    },
+    {
+      "score": "3",
+      "classifier": "Excellent explanation",
+      "feedback": "He described with maestry"
+    }
+  ]
+}
