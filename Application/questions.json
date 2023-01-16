@@ -1,0 +1,276 @@
+{
+  "subjects": [
+    {
+      "subject": "OOP",
+      "questions": [
+        {
+          "concept": "OOPs",
+          "question": "What are the main features of OOPs?"
+        },
+        {
+          "concept": "Interface and Abstract class",
+          "question": "Interface vs abstract class?"
+        },
+        {
+          "concept": "GC",
+          "question": "What is Garbage Collection?"
+        },
+        {
+          "concept": "Boxing and Unboxing",
+          "question": "Boxing and Unboxing? "
+        },
+        {
+          "concept": "Override and Overloading",
+          "question": "Override vs Overloading?"
+        }
+      ]
+    },
+    {
+      "subject": ".NET",
+      "questions": [
+        {
+          "concept": "Delegate",
+          "question": "What is a delegate in .Net?"
+        },
+        {
+          "concept": "Generics",
+          "question": "Generics? Advantages?"
+        },
+        {
+          "concept": "Reflection",
+          "question": "Reflection? Disavantages?"
+        },
+        {
+          "concept": "Classes vs Structs",
+          "question": "Classes vs Structs?"
+        },
+        {
+          "concept": "Constants and Read only",
+          "question": "Difference between constants and read only?"
+        },
+        {
+          "concept": "Nullable",
+          "question": "What is Nullable? When it is applicable?"
+        },
+        {
+          "concept": "Lambda and Linq",
+          "question": "What is Lambda? Relation between LINQ and Lambdas?"
+        },
+        {
+          "concept": "StringBuilder and String",
+          "question": "StringBuilder vs string? "
+        },
+        {
+          "concept": "Dispose and Finalize methods",
+          "question": "Dispose() vs finalize()?"
+        }
+      ]
+    },
+    {
+      "subject": "Java",
+      "questions": [
+        {
+          "concept": "Bytecode",
+          "question": "What is java Bytecode? "
+        },
+        {
+          "concept": "== vs equals method",
+          "question": "What's the equals method? Difference with ==? "
+        },
+        {
+          "concept": "Hashcode",
+          "question": "What's the HashCode? Relationship with Equals? "
+        },
+        {
+          "concept": "Set vs List",
+          "question": "Difference between a Set and a List? "
+        },
+        {
+          "concept": "Hashmap",
+          "question": "How does a HashMap work? "
+        },
+        {
+          "concept": "LinkedList vs ArrayList",
+          "question": "In which case do you want to use a LinkedList instead of an ArrayList?"
+        },
+        {
+          "concept": "Imperative and Functional styles",
+          "question": "Difference between these two coding styles? (Imperative and Functional)"
+        }
+      ]
+    },
+    {
+      "subject": "Best Practices",
+      "questions": [
+        {
+          "concept": "Design Patterns",
+          "question": "Describe any Creational, Structural or Behavioral design pattern"
+        },
+        {
+          "concept": "SOLID principles",
+          "question": "Describe SOLID principles"
+        },
+        {
+          "concept": "Dependency inversion vs dependency injection",
+          "question": "Dependency inversion vs dependency injection?"
+        },
+        {
+          "concept": "Clean Code",
+          "question": "Can you mention some points about Clean code? "
+        }
+      ]
+    },
+    {
+      "subject": "Cloud and DevOps",
+      "questions": [
+        {
+          "concept": "CI/CD",
+          "question": "CI/CD? Can you mention steps of a full pipeline involving tests, security, repo management?"
+        },
+        {
+          "concept": "Jenkins",
+          "question": "How does Jenkins works?"
+        },
+        {
+          "concept": "Docker",
+          "question": "What is Docker?"
+        },
+        {
+          "concept": "Docker Image",
+          "question": "What are Docker images?"
+        },
+        {
+          "concept": "Docker Compose",
+          "question": "What is Docker Compose?"
+        },
+        {
+          "concept": "Virtualization vs Containerization",
+          "question": "Virtualization vs Containerization? "
+        },
+        {
+          "concept": "Kubernetes vs Docker",
+          "question": "How is Kubernetes related to Docker?"
+        },
+        {
+          "concept": "IaaS vs PaaS vs SaaS",
+          "question": "IaaS vs PaaS vs SaaS?"
+        },
+        {
+          "concept": "Splunk",
+          "question": "Splunk?"
+        },
+        {
+          "concept": "AppDynamics",
+          "question": "AppDynamics?"
+        },
+        {
+          "concept": "Grafana",
+          "question": "Grafana?"
+        },
+        {
+          "concept": "Flink",
+          "question": "How does Flink work?"
+        },
+        {
+          "concept": "Nifi",
+          "question": "How does Nifi work?"
+        },
+        {
+          "concept": "Ansible vs Puppet",
+          "question": "Ansible vc Puppet?"
+        },
+        {
+          "concept": "Blue Green deploy",
+          "question": "Blue/Green deployment?"
+        }
+      ]
+    },
+    {
+      "subject": "AWS",
+      "questions": [
+        {
+          "concept": "EC2",
+          "question": "Do you know what is EC2? "
+        },
+        {
+          "concept": "IAM roles",
+          "question": "Do you know what is IAM roles? Authentication vs Authorization?"
+        },
+        {
+          "concept": "IaC",
+          "question": "Do you know how IaC is implemented in AWS?"
+        }
+      ]
+    },
+    {
+      "subject": "Databases",
+      "questions": [
+        {
+          "concept": "SQL vs NoSQL",
+          "question": "SQL vs NoSQL. Experience working with any? Differences between MongoDB/Cassandra/Redis/MariaDB."
+        },
+        {
+          "concept": "SQL relationships",
+          "question": "Types of relationships in SQL?"
+        },
+        {
+          "concept": "Inner join vs Left join",
+          "question": "Inner join vs Left join?"
+        },
+        {
+          "concept": "Foreign Key",
+          "question": "What is a Foreign Key?"
+        },
+        {
+          "concept": "Transactions",
+          "question": "What is transactions used for?"
+        }
+      ]
+    },
+    {
+      "subject": "Architecture",
+      "questions": [
+        {
+          "concept": "Clean Architecture",
+          "question": "Do you know Clean Architecture?"
+        },
+        {
+          "concept": "Hexagonal Architecture",
+          "question": "Do you know Hexagonal architecture? (Ports/Adapters)"
+        },
+        {
+          "concept": "MVC",
+          "question": "MVC?"
+        },
+        {
+          "concept": "DDD",
+          "question": "DDD?"
+        },
+        {
+          "concept": "RESTful APIs",
+          "question": "RESTful APIs?"
+        },
+        {
+          "concept": "REST principles",
+          "question": "REST principles?"
+        },
+        {
+          "concept": "Put vs Patch",
+          "question": "Put vs Patch? Status codes?"
+        },
+        {
+          "concept": "Kafka",
+          "question": "kafka? Do you know what is a offset?"
+        },
+        {
+          "concept": "Microservices",
+          "question": "What is a microservice?"
+        },
+        {
+          "concept": "Advantages of microservice architecture",
+          "question": "Advantages of a microservices oriented architecture? Disadvantages?"
+        }
+      ]
+    }
+  ]
+}
