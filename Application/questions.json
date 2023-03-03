@@ -48,6 +48,10 @@
           "concept": "Constants and Read only",
           "question": "Difference between constants and read only?"
         },
+         {
+          "concept": "Tuple vs Dictionary",
+          "question": "What's the difference between Tuple and Dictionary? "
+        },
         {
           "concept": "Nullable",
           "question": "What is Nullable? When it is applicable?"
@@ -124,19 +128,15 @@
       "subject": "Cloud and DevOps",
       "questions": [
         {
-          "concept": "CI/CD",
-          "question": "CI/CD? Can you mention steps of a full pipeline involving tests, security, repo management?"
-        },
-        {
-          "concept": "Jenkins",
-          "question": "How does Jenkins works?"
+          "concept": "Jenkins and CI/CD",
+          "question": "How Jenkins is used for CI/CD? Can you mention full pipeline lifecycle?(tests, security, repo management)"
         },
         {
           "concept": "Docker",
           "question": "What is Docker?"
         },
         {
-          "concept": "Docker Image",
+          "concept": "Docker Images",
           "question": "What are Docker images?"
         },
         {
@@ -177,11 +177,19 @@
         },
         {
           "concept": "Ansible vs Puppet",
-          "question": "Ansible vc Puppet?"
+          "question": "Ansible vs Puppet?"
         },
         {
-          "concept": "Blue Green deploy",
-          "question": "Blue/Green deployment?"
+          "concept": "Ansible playbook vs Ansible tasks",
+          "question": "Ansible playbook vs Ansible tasks?"
+        },
+        {
+          "concept": "Blue Green vs Canary deploy",
+          "question": "Blue/Green vs Canary  deployment?"
+        },
+        {
+          "concept": "MTTR strategy",
+          "question": "What is your strategy for applying MTTR (Mean Time to Recovery)?"
         }
       ]
     },
@@ -193,12 +201,32 @@
           "question": "Do you know what is EC2? "
         },
         {
+          "concept": "EC2 Autoscaling",
+          "question": "How you can reduce load on your instance as CPU utilization reaches 80% for example?"
+        },
+        {
+          "concept": "EBS access",
+          "question": "How do you access the data on EBS in AWS?"
+        },
+        {
           "concept": "IAM roles",
-          "question": "Do you know what is IAM roles? Authentication vs Authorization?"
+          "question": "Advantages of IAMs? Authentication vs Authorization?"
+        },
+        {
+          "concept": "Security Groups",
+          "question": "What do you understand about Security Group?"
+        },
+        {
+          "concept": "AMI",
+          "question": "What is AMI and what does it include?"
         },
         {
           "concept": "IaC",
           "question": "Do you know how IaC is implemented in AWS?"
+        },
+        {
+          "concept": "Provisioning ec2 instance using terraform",
+          "question": "How to provision an EC2 instance using terraform module?"
         }
       ]
     },
@@ -251,24 +279,16 @@
           "question": "RESTful APIs?"
         },
         {
-          "concept": "REST principles",
-          "question": "REST principles?"
-        },
-        {
           "concept": "Put vs Patch",
           "question": "Put vs Patch? Status codes?"
         },
         {
           "concept": "Kafka",
-          "question": "kafka? Do you know what is a offset?"
+          "question": "Kafka? Do you know what is a offset?"
         },
         {
-          "concept": "Microservices",
-          "question": "What is a microservice?"
-        },
-        {
-          "concept": "Advantages of microservice architecture",
-          "question": "Advantages of a microservices oriented architecture? Disadvantages?"
+          "concept": "Microservices advantages and disadvantages",
+          "question": "What's a microservice?  Advantages and Disadvantages?"
         }
       ]
     }
