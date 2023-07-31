@@ -48,7 +48,7 @@
           "concept": "Constants and Read only",
           "question": "Difference between constants and read only?"
         },
-         {
+        {
           "concept": "Tuple vs Dictionary",
           "question": "What's the difference between Tuple and Dictionary? "
         },
@@ -86,8 +86,20 @@
           "question": "What's the HashCode? Relationship with Equals? "
         },
         {
+          "concept": "Exception",
+          "question": "What is an exception and how is it handled in Java?  "
+        },
+        {
+          "concept": "Custom Exception, Checked vs Unchecked exceptions",
+          "question": "How do you create a custom exception class? Checked vs Unchecked exceptions?   "
+        },
+        {
           "concept": "Set vs List",
           "question": "Difference between a Set and a List? "
+        },
+        {
+          "concept": "Primitive values in collections",
+          "question": "Why can we not use primitive values on Java collections?  "
         },
         {
           "concept": "Hashmap",
@@ -128,15 +140,19 @@
       "subject": "Cloud and DevOps",
       "questions": [
         {
-          "concept": "Jenkins and CI/CD",
-          "question": "How Jenkins is used for CI/CD? Can you mention full pipeline lifecycle?(tests, security, repo management)"
+          "concept": "CI/CD",
+          "question": "CI/CD? Can you mention steps of a full pipeline involving tests, security, repo management?"
+        },
+        {
+          "concept": "Jenkins",
+          "question": "How does Jenkins works?"
         },
         {
           "concept": "Docker",
           "question": "What is Docker?"
         },
         {
-          "concept": "Docker Images",
+          "concept": "Docker Image",
           "question": "What are Docker images?"
         },
         {
@@ -252,6 +268,10 @@
         {
           "concept": "Transactions",
           "question": "What is transactions used for?"
+        },
+        {
+          "concept": "Queries",
+          "question": "Queries syntax?"
         }
       ]
     },
@@ -279,6 +299,14 @@
           "question": "RESTful APIs?"
         },
         {
+          "concept": "Stateless vs Stateful",
+          "question": "Stateless vs Stateful? ?"
+        },
+        {
+          "concept": "REST principles",
+          "question": "REST principles?"
+        },
+        {
           "concept": "Put vs Patch",
           "question": "Put vs Patch? Status codes?"
         },
@@ -287,8 +315,16 @@
           "question": "Kafka? Do you know what is a offset?"
         },
         {
-          "concept": "Microservices advantages and disadvantages",
-          "question": "What's a microservice?  Advantages and Disadvantages?"
+          "concept": "Kafka consumer lag",
+          "question": "We are facing a high Consumer lag in one of our topics, how would you solve that? "
+        },
+        {
+          "concept": "Microservices",
+          "question": "What is a microservice?"
+        },
+        {
+          "concept": "Advantages of microservice architecture",
+          "question": "Advantages of a microservices oriented architecture? Disadvantages?"
         }
       ]
     }
