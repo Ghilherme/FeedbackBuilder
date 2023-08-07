@@ -2,23 +2,28 @@
   "scores": [
     {
       "score": "0",
-      "classifier": "Don't know",
-      "feedback": "He was not able to describe"
+      "classifier": "No knowledge",
+      "feedback": "He showed no knowledge on"
     },
     {
       "score": "1",
       "classifier": "Poor explanation",
-      "feedback": "He partially described"
+      "feedback": "Has very little knowledge on"
     },
     {
       "score": "2",
+      "classifier": "Average explanation",
+      "feedback": "Has basic understanding of"
+    },
+    {
+      "score": "3",
       "classifier": "Good explanation",
       "feedback": "He was able to describe"
     },
     {
-      "score": "3",
+      "score": "4",
       "classifier": "Excellent explanation",
-      "feedback": "He described with maestry"
+      "feedback": "He masterfully described"
     }
   ]
 }
