@@ -123,6 +123,10 @@
           "question": "Describe any Creational, Structural or Behavioral design pattern"
         },
         {
+          "concept": "Design patterns in Spring",
+          "question": "What and where is Design patterns applied into Spring Framework?"
+        },
+        {
           "concept": "SOLID principles",
           "question": "Describe SOLID principles"
         },
@@ -268,6 +272,10 @@
         {
           "concept": "Transactions",
           "question": "What is transactions used for?"
+        },
+        {
+          "concept": "ACID principles",
+          "question": "What ACID stands for?"
         },
         {
           "concept": "Queries",
